@@ -26,10 +26,10 @@
 
 ##  Beyond the Screen
 
--  *Basketball grind*: working on dunking weekly—progressing one jump at a time  
--  *Dog advocate*: love volunteering with shelters to help pups find homes  
+-  *Chess grind*: Road to 2000 elo on chess.com, currently 1000
+-  *Dog advocate*: love dogs, used to volunteer with shelters to help pups find homes  
 -  *Game theorist at heart*: design and play strategy board and digital games  
--  *Side-hustle chef*: mixing new recipes and workouts when I can
+-  *Chef*: experimenting with new recipes when I can
 
 ---
 
@@ -38,5 +38,4 @@
 -  Email: [adutt1010@gmail.com](mailto:adutt1010@gmail.com)  
 -  LinkedIn: [linkedin.com/in/aditya-dutt-](https://www.linkedin.com/in/aditya-dutt-)  
 -  GitHub: [github.com/adutt1010](https://github.com/adutt1010)  
-
-> “Innovating on systems and models by day, recharging over hoops and hounds by night.”  
+  
