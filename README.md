@@ -1,7 +1,7 @@
 # Hi, I'm Aditya 👋
 
 🎓 Senior at UC San Diego, pursuing a B.S. in **Computer Science & Mathematics** (Dec 2025)  
-💻 Passionate about **AI/ML**, GPU-accelerated systems, and building things that actually work in production  
+💻 Passionate about **AI/ML**, Software Deveopment, and building things that actually work in production  
 🌎 On a mission to merge deep learning research with real-world product impact
 
 ---
