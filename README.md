@@ -33,7 +33,7 @@
 
 ---
 
-##  Connect With Me
+## 📫 Connect With Me
 
 -  📧 Email: [adutt1010@gmail.com](mailto:adutt1010@gmail.com)  
 -  💼 LinkedIn: [linkedin.com/in/aditya-dutt-](https://www.linkedin.com/in/aditya-dutt-)  
