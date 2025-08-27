@@ -6,7 +6,7 @@
 
 ---
 
-##  Projects That I've Tackled
+## 🚀 Projects That I've Tackled
 
 | Project | Description |
 |---------|-------------|
@@ -16,7 +16,7 @@
 
 ---
 
-##  My Tech Stack
+## 🛠️ My Tech Stack
 
 **Languages**: Python · C++ · JavaScript · Rust · CUDA · SQL · Bash  
 **AI/ML**: PyTorch · TensorFlow · Scikit-Learn · JAX · OpenCV  
@@ -24,18 +24,18 @@
 
 ---
 
-##  Beyond the Screen
+## 🌟 Beyond the Screen
 
--  *Chess grind*: Road to 2000 elo on chess.com, currently 1000
--  *Dog advocate*: love dogs, used to volunteer with shelters to help pups find homes  
--  *Game theorist at heart*: design and play strategy board and digital games  
--  *Chef*: experimenting with new recipes when I can
+-  ♟️ *Chess grind*: Road to 2000 elo on chess.com, currently 1000💀
+-  🐕 *Dog advocate*: love dogs, used to volunteer with shelters to help pups find homes  
+-  🎮 *Game theorist at heart*: design and play strategy board and digital games  
+-  🍜 *Chef*: experimenting with new recipes when I can
 
 ---
 
 ##  Connect With Me
 
--  Email: [adutt1010@gmail.com](mailto:adutt1010@gmail.com)  
--  LinkedIn: [linkedin.com/in/aditya-dutt-](https://www.linkedin.com/in/aditya-dutt-)  
--  GitHub: [github.com/adutt1010](https://github.com/adutt1010)  
+-  📧 Email: [adutt1010@gmail.com](mailto:adutt1010@gmail.com)  
+-  💼 LinkedIn: [linkedin.com/in/aditya-dutt-](https://www.linkedin.com/in/aditya-dutt-)  
+-  🖥️ GitHub: [github.com/adutt1010](https://github.com/adutt1010)  
   
