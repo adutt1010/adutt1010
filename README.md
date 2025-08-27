@@ -11,8 +11,8 @@
 | Project | Description |
 |---------|-------------|
 | **[Climate Model Emulation](https://drive.google.com/file/d/1-IUepVye-bAXqH59E0wrKC0rqCS_5oHR/view?usp=sharing)** | Designed a hybrid TCN–LSTM–UNet model to accelerate climate modeling; ranked **Top-10 on Kaggle** with significant gains over baselines. |
-| **[GPU Convolution Forward Pass (CSE 160)](https://docs-cse160.readthedocs.io/en/latest/PA6.html)** | Built an OpenCL-accelerated forward layer (from LeNet-5) to run inference on Fashion MNIST—optimizing GPU inference for performance-critical workloads. :contentReference[oaicite:1]{index=1} |
-| **[CSE Card Collector](https://github.com/cse110-sp25-group30/cse110-sp25-group30)** | A professor-themed card-collecting web app with a clicker-style mini-game, high test coverage, mobile responsiveness, and real-time gameplay. :contentReference[oaicite:2]{index=2} |
+| **[GPU Convolution Forward Pass (CSE 160)](https://docs-cse160.readthedocs.io/en/latest/PA6.html)** | Built an OpenCL-accelerated forward layer (from LeNet-5) to run inference on Fashion MNIST—optimizing GPU inference for performance-critical workloads. |
+| **[CSE Card Collector](https://github.com/cse110-sp25-group30/cse110-sp25-group30)** | A professor-themed card-collecting web app with a clicker-style mini-game, high test coverage, mobile responsiveness, and real-time gameplay |
 
 ---
 
