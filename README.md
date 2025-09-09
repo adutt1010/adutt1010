@@ -19,7 +19,7 @@
 | **Habitizer (Android App)** | Built a mobile app in Android Studio to help users build and track daily routines, with features for routine creation, editing, timers, persistence, and progress tracking; developed using Agile practices with BDD user stories and GitHub CI. |
 | **[Nachos OS Projects (CSE 120)](https://cseweb.ucsd.edu/classes/sp25/cse120-a/projects/)** | Implemented core features of operating systems, including **threading** (join, condition variables, rendezvous), **system calls** (file I/O, exec/join/exit), and **memory management** (demand paging, swap, clock algorithm). |
 
-email me for access @adutt1010@gmail.com :)
+email me for access at [adutt1010@gmail.com](mailto:adutt1010@gmail.com)  :)
 
 ---
 
