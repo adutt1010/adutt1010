@@ -31,6 +31,16 @@ Email me for access to Projects at [adutt1010@gmail.com](mailto:adutt1010@gmail.
 
 ---
 
+## 📊 Business & Analytical Skills
+
+- **SaaS Metrics & Growth**: Experience with ARPU, CAC, LTV, churn, cohort analysis, and subscription modeling — applied in the context of product experiments and pricing insights.  
+- **Experimentation & A/B Testing**: Designed and evaluated large-scale experiments, focusing on velocity, statistical rigor, and actionable decision-making.  
+- **Data Science & Analysis**: Exploratory data analysis, user segmentation, predictive modeling, and trend identification to support product and engineering decisions.  
+- **Product Analytics**: Familiar with funnel analysis, retention metrics, and propensity-to-pay modeling for SaaS and consumer apps.  
+- **Game Design & Engagement**: Exposure to game development best practices, including balancing mechanics, player engagement loops, and retention strategies.
+
+---
+
 ## 🌟 Beyond the Screen
 
 -  ♟️ *Chess grind*: Road to 2000 elo on chess.com, currently 1000💀  
