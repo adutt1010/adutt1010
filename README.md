@@ -33,11 +33,11 @@ Email me for access to Projects at [adutt1010@gmail.com](mailto:adutt1010@gmail.
 
 ## 📊 Business & Analytical Skills
 
-**Software Development Practices**: Agile workflows, PRD (product requirements doc) planning, sprint estimation (planning poker), CI/CD, and cross-functional collaboration.  
-**Data Science & Analysis**: Exploratory data analysis, user segmentation, predictive modeling, and trend identification to support product and engineering decisions.  
-**SaaS Metrics & Growth**: Experience with ARPU, CAC, LTV, churn, cohort analysis, and subscription modeling — applied in the context of product experiments and pricing insights.  
-**Experimentation & A/B Testing**: Designed and evaluated large-scale experiments, focusing on velocity, statistical rigor, and actionable decision-making.  
-**Product Analytics**: Familiar with funnel analysis, retention metrics, and propensity-to-pay modeling for SaaS and consumer apps.  
+- **Software Development Practices**: Agile workflows, PRD (product requirements doc) planning, sprint estimation (planning poker), CI/CD, and cross-functional collaboration.  
+- **Data Science & Analysis**: Exploratory data analysis, user segmentation, predictive modeling, and trend identification to support product and engineering decisions.  
+- **SaaS Metrics & Growth**: Experience with ARPU, CAC, LTV, churn, cohort analysis, and subscription modeling — applied in the context of product experiments and pricing insights.  
+- **Experimentation & A/B Testing**: Designed and evaluated large-scale experiments, focusing on velocity, statistical rigor, and actionable decision-making.  
+- **Product Analytics**: Familiar with funnel analysis, retention metrics, and propensity-to-pay modeling for SaaS and consumer apps.  
 
 ---
 
