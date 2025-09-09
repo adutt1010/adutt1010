@@ -27,7 +27,7 @@ email me for access @adutt1010@gmail.com :)
 
 **Languages**: Java · Python · C · C++ · OpenCL · CUDA · Rust · JavaScript · Swift · Assembly · Bash · SQL · MATLAB  
 **Web Development**: React · Angular · Node.js · AWS · HTML · CSS  
-**Data Science & AI**: PyTorch · TensorFlow · Scikit-Learn · JAX · vLLM · OpenCV · LangChain · Pandas  
+**Data Science**: PyTorch · TensorFlow · Scikit-Learn · JAX · vLLM · OpenCV · LangChain · Pandas  
 
 ---
 
