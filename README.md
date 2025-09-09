@@ -16,7 +16,7 @@
 | **YouTube Video Classification** | Built ML classifiers (Decision Trees, Random Forest, KNN) on a Kaggle dataset of YouTube metadata; achieved **87.8% accuracy** with KNN. |
 | **Black & White Image Colorization** | Implemented grayscale-to-color pipeline using OpenCV’s pre-trained Caffe model; packaged for reproducible, user-friendly image colorization. |
 | **Movie Preference Modeling (EM Algorithm)** | Applied Expectation–Maximization to latent user type modeling; implemented log-likelihood tracking and converged to stable clusters. |
-| **Habitizer (Android App)** | Mobile app to build & track routines; followed Agile practices. **M1:** routine creation, editing, timers. **M2:** persistence (SQLite), goal times, pause states, refactored UI. |
+| **Habitizer (Android App)** | Built a mobile app in Android Studio to help users build and track daily routines, with features for routine creation, editing, timers, persistence, and progress tracking; developed using Agile practices with BDD user stories and GitHub CI. |
 | **[Nachos OS Projects (CSE 120)](https://cseweb.ucsd.edu/classes/sp25/cse120-a/projects/)** | Implemented core features of operating systems, including **threading** (join, condition variables, rendezvous), **system calls** (file I/O, exec/join/exit), and **memory management** (demand paging, swap, clock algorithm). |
 
 email me for access @adutt1010@gmail.com :)
