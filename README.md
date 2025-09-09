@@ -17,7 +17,9 @@
 | **Black & White Image Colorization** | Implemented grayscale-to-color pipeline using OpenCV’s pre-trained Caffe model; packaged for reproducible, user-friendly image colorization. |
 | **Movie Preference Modeling (EM Algorithm)** | Applied Expectation–Maximization to latent user type modeling; implemented log-likelihood tracking and converged to stable clusters. |
 | **Habitizer (Android App)** | Mobile app to build & track routines; followed Agile practices. **M1:** routine creation, editing, timers. **M2:** persistence (SQLite), goal times, pause states, refactored UI. |
-| **Nachos OS Projects (CSE 120)** | Implemented core features of operating systems, including **threading** (join, condition variables, rendezvous), **system calls** (file I/O, exec/join/exit), and **memory management** (demand paging, swap, clock algorithm). |
+| **[Nachos OS Projects (CSE 120)](https://cseweb.ucsd.edu/classes/sp25/cse120-a/projects/)** | Implemented core features of operating systems, including **threading** (join, condition variables, rendezvous), **system calls** (file I/O, exec/join/exit), and **memory management** (demand paging, swap, clock algorithm). |
+
+email me for access @adutt1010@gmail.com :)
 
 ---
 
